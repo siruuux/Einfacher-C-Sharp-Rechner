@@ -1,0 +1,10 @@
+C:\Users\siruu\source\repos\Visual Studio\Lernen\Einfacher Rechner mit GUI\Einfacher Rechner mit GUI\bin\Debug\Einfacher Rechner mit GUI.exe.config
+C:\Users\siruu\source\repos\Visual Studio\Lernen\Einfacher Rechner mit GUI\Einfacher Rechner mit GUI\bin\Debug\Einfacher Rechner mit GUI.exe
+C:\Users\siruu\source\repos\Visual Studio\Lernen\Einfacher Rechner mit GUI\Einfacher Rechner mit GUI\bin\Debug\Einfacher Rechner mit GUI.pdb
+C:\Users\siruu\source\repos\Visual Studio\Lernen\Einfacher Rechner mit GUI\Einfacher Rechner mit GUI\obj\Debug\Einfacher Rechner mit GUI.csprojAssemblyReference.cache
+C:\Users\siruu\source\repos\Visual Studio\Lernen\Einfacher Rechner mit GUI\Einfacher Rechner mit GUI\obj\Debug\Einfacher_Rechner_mit_GUI.Form1.resources
+C:\Users\siruu\source\repos\Visual Studio\Lernen\Einfacher Rechner mit GUI\Einfacher Rechner mit GUI\obj\Debug\Einfacher_Rechner_mit_GUI.Properties.Resources.resources
+C:\Users\siruu\source\repos\Visual Studio\Lernen\Einfacher Rechner mit GUI\Einfacher Rechner mit GUI\obj\Debug\Einfacher Rechner mit GUI.csproj.GenerateResource.cache
+C:\Users\siruu\source\repos\Visual Studio\Lernen\Einfacher Rechner mit GUI\Einfacher Rechner mit GUI\obj\Debug\Einfacher Rechner mit GUI.csproj.CoreCompileInputs.cache
+C:\Users\siruu\source\repos\Visual Studio\Lernen\Einfacher Rechner mit GUI\Einfacher Rechner mit GUI\obj\Debug\Einfacher Rechner mit GUI.exe
+C:\Users\siruu\source\repos\Visual Studio\Lernen\Einfacher Rechner mit GUI\Einfacher Rechner mit GUI\obj\Debug\Einfacher Rechner mit GUI.pdb
